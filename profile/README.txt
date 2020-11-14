@@ -9,6 +9,12 @@ Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
 Facebook: http://facebook.com/fh5co
 
+EDITOR:
+DESIGNED & DEVELOPED by EL AMRANI Mohamed Reda
+
+website: https://firsth.000webhostapp.com/profile/
+Twitter: https://twitter.com/ELAMRAN81895330
+LinkedIn: https://www.linkedin.com/in/mohamed-reda-el-amrani-031b421b4/
 
 CREDITS:
 
