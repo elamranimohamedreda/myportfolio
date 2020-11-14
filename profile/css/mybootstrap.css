@@ -1,0 +1,15 @@
+
+
+.btn-pink{border-color:#00cc6a;background-color:#00cc6a;color:#fff;vertical-align:center;align:center;
+    font-family:open sans,Arial,sans-serif;letter-spacing:normal;padding:18px 55px;font-size:18px;font-weight:800;transition:none
+}
+.btn-pink:focus,.btn-pink:hover{border-color:#00cc6a;background-color:#00cc6a;opacity:.8;color:#fff}
+.btn-pink:active,.btn-pink:active:focus,.btn-pink:active:hover{border-color:#00cc6a;background-color:#00cc6a;color:#fff}
+
+.btn-silver{border-color:silver;background-color:silver;color:#fff;vertical-align:center;align:center;
+    font-family:open sans,Arial,sans-serif;letter-spacing:normal;padding:10px 44px;font-size:15px;font-weight:800;transition:none
+}
+.btn-silver:focus,.btn-silver:hover{border-color:silver;background-color:silver;opacity:.8;color:#fff}
+.btn-silver:active,.btn-silver:active:focus,.btn-silver:active:hover{border-color:silver;background-color:silver;color:#fff}
+
+section-content{margin-top:30px}@media(min-width:768px){.section-content{margin-top:30px}}
